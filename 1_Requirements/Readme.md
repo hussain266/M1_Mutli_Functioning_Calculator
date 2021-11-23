@@ -14,6 +14,6 @@ By Using this Project a Retailer can check the Profit or Loss percentage,and it 
 In Calculation part like Finding the loss or profit Percentage,multiplication etc.
 #### 4. Where? :
 Ratailer store,Small Shops,Marts etc.
-#### 4. Huw?
+#### 5. Huw?
 It Simplify the Calculation part and can easyly calculate the gross Percentage or loss and any kind of calculation that one who can wants to be do.
 
