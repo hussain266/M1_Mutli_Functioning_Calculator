@@ -26,3 +26,14 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 #### Threats
 Although This calculators enjoys a substantial competitive advantage in the calculator business, strong competitors such as Nikon, Fastrack, Panasonic, Sony, Pentax, etc.
 are emerging daily and gaining popularity among people. Also, due to the stereotype image for “Only a calculator brand,” it’s getting hard for Casio to enter sports and other tech-product lines as there’re already many strong brands are ruling.
+Detail Requirements
+Detail Requirements
+# Detail Requirements
+#### High Level Requirements:
+01)	User shall be able to specify the size of the elements.	
+02)	User shall be able to selsct the type of operstion.	
+03)	User shall be able enter the values.
+#### Low level Requirements:
+01)	User must specify the elements.	
+02)	user need to select the type of operation he wants to do.	
+03)	user need to give only valid inputs.
