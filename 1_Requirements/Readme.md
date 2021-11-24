@@ -16,4 +16,13 @@ In Calculation part like Finding the loss or profit Percentage,multiplication et
 Ratailer store,Small Shops,Marts etc.
 #### 5. Huw?
 It Simplify the Calculation part and can easyly calculate the gross Percentage or loss and any kind of calculation that one who can wants to be do.
-
+# SWOT Analysy
+#### Strengths
+The ultimate strength of ulti functioning Calculators is its innovative and user-friendly products. this calculators are long-lasting, and they have almost all kinds of calculators such as basic, scientific, graphing, financial, etc. Their technological expertise is one of the greatest. 
+#### Weaknesses
+this calculators has a strong brand image for manufacturing calculators, but at the same time, this brand image works as a stereotype for them. It is  weakness. this has many other wonderful product lines other than calculators, but people don’t rely on them much when buying something than calculators.
+#### Opportunities
+The tech-based market has a huge opportunities in capturing the youth market. And This is comparatively already one step ahead than other Type of calculators. Because since the beginning of childhood, we got introduced to Different type of calculators as a helping partner in mathematics.
+#### Threats
+Although This calculators enjoys a substantial competitive advantage in the calculator business, strong competitors such as Nikon, Fastrack, Panasonic, Sony, Pentax, etc.
+are emerging daily and gaining popularity among people. Also, due to the stereotype image for “Only a calculator brand,” it’s getting hard for Casio to enter sports and other tech-product lines as there’re already many strong brands are ruling.
