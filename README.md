@@ -10,3 +10,5 @@
 | [![Unit_Testing](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Unit_Testing.yml) |
 | Build linux |
 | [![Build_linux](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_linux.yml) |
+| Code Quality |
+| [![Code Quality - Static Code - Cppcheck](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/cppcheck.yml) |
