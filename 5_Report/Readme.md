@@ -33,9 +33,15 @@ Detail Requirements
 01)	User shall be able to specify the size of the elements.	
 02)	User shall be able to selsct the type of operstion.	
 03)	User shall be able enter the values.
-#### Low level Requirements:
+### Low level Requirements:
 01)	User must specify the elements.	
 02)	user need to select the type of operation he wants to do.	
 03)	user need to give only valid inputs.
+## Screenshots
 ![image](https://user-images.githubusercontent.com/94312393/143176828-427faff9-ccd3-4c39-8aca-1b66d7966ff7.png)
+![Screenshot](https://user-images.githubusercontent.com/94312393/143490817-fcff482d-93d0-4870-b0a5-c00bd1615f28.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/94312393/143490841-df175cb0-521b-411f-95a4-9f7b3e3b334c.png)
+
+## Short Video
+https://user-images.githubusercontent.com/94312393/143490864-5413d2ea-8626-44c7-a9e3-6957b62818fc.mp4
 
