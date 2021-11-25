@@ -1,3 +1,4 @@
+name: Build_linux
 on:
   push:
     branches: [ main ]
