@@ -37,4 +37,5 @@ Detail Requirements
 01)	User must specify the elements.	
 02)	user need to select the type of operation he wants to do.	
 03)	user need to give only valid inputs.
+![image](https://user-images.githubusercontent.com/94312393/143176828-427faff9-ccd3-4c39-8aca-1b66d7966ff7.png)
 
