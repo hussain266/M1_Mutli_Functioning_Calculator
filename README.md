@@ -12,3 +12,5 @@
 | [![Build_linux](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_linux.yml) |
 | Code Quality |
 | [![Code Quality - Static Code - Cppcheck](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/cppcheck.yml) |
+| Build windows |
+| [![Build Windows](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_windows.yml/badge.svg)](https://github.com/hussain266/M1_Mutli_Functioning_Calculator/actions/workflows/Build_windows.yml) |
