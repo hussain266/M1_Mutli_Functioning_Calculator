@@ -1,7 +1,7 @@
 # M1_Mutli_Functioning_Calculacutor
 | code quality score |
 | ----- |
-| ![Code Grade](https://api.codiga.io/project/29989/score/svg) |
+| ![Code Grade](https://api.codiga.io/project/30065/score/svg) |
 | code grade |
 | ![Code Grade](https://api.codiga.io/project/29989/status/svg) |
 | codacy |
