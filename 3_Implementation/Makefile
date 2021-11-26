@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = library
+PROJECT_NAME = Multifunctioning_Cal
 
 # Output directory
 BUILD = build
